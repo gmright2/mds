@@ -18,7 +18,7 @@
 	},
 	"homepage": "https://github.com/cloud66/mds#readme",
 	"dependencies": {
-		"cookie-parser": "~1.4.4",
+		"cookie-parser": "~1.4.7",
 		"debug": "~2.6.9",
 		"ejs": "~2.6.1",
 		"express": "^4.17.1",
